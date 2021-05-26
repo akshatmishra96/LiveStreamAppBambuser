@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libbambuser-android.iml" filepath="$PROJECT_DIR$/.idea/modules/libbambuser-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example/libbambuser-android.example.iml" filepath="$PROJECT_DIR$/.idea/modules/example/libbambuser-android.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleplayer/libbambuser-android.exampleplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleplayer/libbambuser-android.exampleplayer.iml" />
+    </modules>
+  </component>
+</project>

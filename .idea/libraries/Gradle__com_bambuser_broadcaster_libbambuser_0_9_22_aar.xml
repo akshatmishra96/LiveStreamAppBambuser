@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bambuser.broadcaster:libbambuser:0.9.22@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4381fe13661692f53222dcda4a67f71/libbambuser-0.9.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4381fe13661692f53222dcda4a67f71/libbambuser-0.9.22/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4381fe13661692f53222dcda4a67f71/libbambuser-0.9.22/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13a8437a1daff492ec08e13c4ab03707/libbambuser-0.9.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13a8437a1daff492ec08e13c4ab03707/libbambuser-0.9.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13a8437a1daff492ec08e13c4ab03707/libbambuser-0.9.22/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
